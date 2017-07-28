@@ -1,4 +1,4 @@
-package org.okdeer.mall.order;
+package com.okdeer.mall.order;
 
 /**
  * Hello world!
